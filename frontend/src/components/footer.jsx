@@ -9,10 +9,7 @@ function Footer() {
           <div className="sec aboutus">
             <h2>About us</h2>
             <p>
-              Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nihil
-              asperiores ex, culpa doloribus ipsam obcaecati deleniti quis quas
-              voluptas ab consequuntur pariatur! Labore, officiis inventore. Nam
-              quia minima nesciunt alias?
+              @ ALL RIGHTS ARE RESERVED 
             </p>
 
             <ul className="sci">
@@ -81,7 +78,7 @@ function Footer() {
             <h2>Quick Links</h2>
             <ul>
               <li>
-                <a href="#">About</a>
+                <a href="#">About Us</a>
               </li>
               <li>
                 <a href="#">FAQs</a>
