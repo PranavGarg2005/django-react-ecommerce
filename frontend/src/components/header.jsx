@@ -25,7 +25,7 @@ class Header extends Component {
         </div>
         <div className="rightsection">
           <div className="search icon">
-            <a href="#search"><svg
+            <button aria-label="Search"><svg
               xmlns="http://www.w3.org/2000/svg"
               width="33.12"
               height="33.12"
@@ -35,7 +35,7 @@ class Header extends Component {
                 d="M25.675,21.268a13.1,13.1,0,1,0-4.409,4.406l8.887,8.886,4.407-4.409ZM14.508,22.594a8.08,8.08,0,1,1,8.084-8.076,8.093,8.093,0,0,1-8.084,8.076Z"
                 transform="translate(-1.44 -1.44)"
               />
-            </svg></a>
+            </svg></button>
           </div>
           <div className="cart icon">
             <a href="#cart"><svg
